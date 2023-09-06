@@ -1,16 +1,17 @@
+body {
+    background-color: gray;
+}
 h1 {
+    color: white;
     display: block;
     margin: 10px 250px 10px 250px;
 }
 
 .vaultImg {
     display: block;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     padding: 2px;
     border: 2px solid black;
     margin: 10px 250px  10px 250px;
-
 }
-
-
